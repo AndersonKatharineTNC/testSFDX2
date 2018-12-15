@@ -1,0 +1,970 @@
+[
+    [
+        "/Users/katherineanderson/geolocation/force-app",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1544834127000,
+            "changeTime": 1544834127000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1544834127000,
+            "changeTime": 1544834127000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1544841230000,
+            "changeTime": 1544841230000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1544841230000,
+            "changeTime": 1544841230000,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1544841144000,
+            "changeTime": 1544841144000,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 3679,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "e6fad1dbc148f2f5ea540b321026ca79a0d0e829",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 1122,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "c4cef6930250b1859de3d882d16b57e36acc933d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1544834606000,
+            "changeTime": 1544834606000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 4806,
+            "modifiedTime": 1544836851000,
+            "changeTime": 1544836851000,
+            "contentHash": "9efeba096d6f0cd47f8a7625ea831f81fac0cf36",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18199,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1544840691000,
+            "changeTime": 1544840691000,
+            "contentHash": "be59478f06d69571d845ef7d6d78e6b3ade761a2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1544841422000,
+            "changeTime": 1544841422000,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1544841380000,
+            "changeTime": 1544841380000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1544841422000,
+            "changeTime": 1544841422000,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544841321000,
+            "changeTime": 1544841321000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4676,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+        }
+    ],
+    [
+        "/Users/katherineanderson/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/katherineanderson/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1544841602000,
+            "changeTime": 1544841602000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ]
+]
